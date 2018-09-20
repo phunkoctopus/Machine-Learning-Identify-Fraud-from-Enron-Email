@@ -1,0 +1,22 @@
+Final Project Resources:
+
+1. Udacity Forums and Lessons: Of immense support.
+2. Supplied resources in poi_id.py file. 
+3. USA Today poi_names: 
+	http://usatoday30.usatoday.com/money/industries/energy/2005-12-28-enron-participants_x.htm
+4. SelectKBest: 
+	https://datascience.stackexchange.com/questions/10773/how-does-selectkbest-work
+	http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+5. Sklearn documentation, Naive Bayes classifier: 
+	http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+6. Sklearn documentation, Support Vector Machine classifier:
+	http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
+7. Sklearn documentation, K-Nearest Neighbors classifier:
+	http://scikit-learn.org/stable/modules/neighbors.html
+8. Sklearn documentation, Decision Tree classifier:
+	http://scikit-learn.org/dev/modules/tree.html
+9. Wikipedia, Precision and Recall: https://en.wikipedia.org/wiki/Precision_and_recall
+
+
+
+“I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
